@@ -1,0 +1,19 @@
+# Compilación
+*.class
+*.jar
+*.war
+*.ear
+*.xml
+*.mf
+
+# Logs
+*.log
+
+# Configuración de IDEs
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
